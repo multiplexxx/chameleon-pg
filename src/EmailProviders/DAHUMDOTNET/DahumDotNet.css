@@ -1,0 +1,74 @@
+
+.daumm_all{
+    overflow: hidden !important;
+}
+
+.daum_wrapper_{
+    overflow-x: hidden !important;
+    width: 100vw;
+    height: 100vh;
+    background: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.cont_d_a_u__{
+    width: 700px;
+    height: 100vh;
+    background-color: #fff;
+    margin-top: 3em;
+}
+
+.img_l_ggg__{
+    padding-top: 26px;
+    padding-bottom: 23px;
+    border-bottom: 1px solid #e6e6e6;
+    display: flex;
+    justify-content: center;
+}
+
+#email_daum{
+    outline: 0;
+    border: 0;
+    padding: 16px 10px;
+    border: 1px solid blue;
+    font-weight: bold;
+    font-size: 15px;
+    width: 7cm;
+    color: #1e1e1e;
+    margin: 5px 0px;
+}
+
+#btn_ddm{
+    display: block;
+    height: 50px;
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    background: #4d87ef;
+    cursor: pointer;
+    outline: 0;
+    border: 0;
+    width: 7.59cm;
+}
+
+main.midkm_okdo{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3rem;
+}
+
+.ijidkd:hover{
+    text-decoration: underline;
+}
+
+.fidd:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.fidddppp:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

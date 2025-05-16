@@ -1,0 +1,170 @@
+
+
+.QQ_nav_{
+    zoom: 1;
+    background: #eff4fa;
+    border-bottom: 1px solid #d6dfea;
+    height: 62px;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.QQ_logo_home_page_{
+    margin-left: 40px;
+}
+
+.QQul{
+    list-style: none;
+    color: #1d5494;
+    font-size: 11px;
+    margin-right: 40px;
+}
+
+.QQul li{
+    display: inline;
+    padding: 3px;
+}
+.QQul li:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.kejmdikjm_flexxQQ{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 7rem;
+    align-items: center;
+}
+
+.QQformContainer{
+    width: 334px;
+    background-color: #fff;
+    border: 1px solid #bbb;
+    border-radius: 7px;
+    /* border: 1px solid red; */
+    height: 400px;
+    /* position: relative; */
+}
+
+
+.dftyu{
+    height: 50px;
+    font-family: "lucida Grande", Verdana, "Microsoft YaHei";
+    border-bottom: 1px solid #c0cdd9;
+    background-color: #f9fbfe;
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 15px;
+}
+
+.kkkkkkkk:hover{
+    color:#111;
+}
+
+
+.IF-hY-VR{
+    padding: 10px 40px 10px 10px;
+    left: 0px;
+    border-radius: 3px;
+    width: 232px;
+    outline: 0;
+    border: 1px solid #aaa;
+    height: 26px;
+}
+
+.QQRme{
+    font-size: 10px;
+}
+
+.kemikdmk{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    /* padding: 10px 40px 10px 10px; */
+    margin-left: 1.4em;
+    margin-top: 0.8em;
+}
+
+.Qs_YE_Dm_btn{
+    background: none;
+    height: 40px;
+    line-height: 39px;
+    width: 100%;
+    outline: none;
+    font-weight: normal;
+    cursor: pointer;
+    background: #1a66c3;
+    color: #fff;
+    outline: none;
+    border: 0;
+    width: 84%;
+    border-radius: 3px;
+    font-size: 17px;
+    margin-top: 1.3em;
+}
+
+.Qs_YE_Dm_btn:hover{
+    background-color: #4878b3;
+}
+
+.oowowowo{
+    color: #444;
+    font-size: 11.7px;
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 6.3em;
+    margin-right: 1.5em;
+}
+
+.uytfcvbnm{
+    font-size: 11.7px;
+    cursor: pointer;
+    color: #1d5494;
+    /* margin: 3px; */
+    display: inline;
+    padding: 4px;
+    
+}
+
+.uytfcvbnm:hover{
+    text-decoration: underline;
+}
+
+#qweds{
+    position: relative;
+    bottom: 0;
+    margin-top: 9.5rem;
+    border-top: 1px solid #c0cdd9;
+    border-radius: 0;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-evenly;
+    /* position: relative;
+    bottom: 0; */
+}
+
+.qweds > span{
+    /* position: absolute; */
+    /* bottom: 0; */
+    /* margin-top: 10px; */
+}
+
+.iwiwiw{
+    color: #1d5494;
+    cursor: pointer;
+    padding: 0 5px;
+}
+
+.iwiwiw:hover{
+    text-decoration: underline;
+}
+
+#qqyr{
+    color: #777;
+}

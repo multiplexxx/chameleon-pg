@@ -1,0 +1,179 @@
+
+
+.root-viewport{
+    /* background :#000; */
+    background :#fbfbfd;
+   width: 100vw;
+   height: 100vh;
+   overflow-x: hidden !important;
+}
+
+/* .fxxxd{
+    position: fixed;
+} */
+
+.toolbar-banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #fbfbfd;
+    height: 50px;
+    padding: 0 14px;
+    background-color: transparent;
+}
+
+.flat-ellipsis{
+    font-weight: bolder;
+    font-size: 26px;
+    color: #000;
+    cursor: pointer;
+    border: 1px solid #fbfbfd;
+    border-radius: 10px;
+    padding: 3px 5px;
+}
+
+.flat-ellipsis:hover{
+    border: 1px solid buttonface;
+    background-color: buttonface;
+}
+
+.rttt{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 15px;
+    transition: all .4s ease;
+    margin-top: -16px;
+}
+
+.menu-article{
+    border: 1px solid buttonface;
+    width: 310px;
+    padding: 12px 9px;
+    border-radius: 15px;
+    background: #fff;
+    box-shadow: 5px 6px 7px #ddd;
+    color: #0071eb;
+    font-size: 14px;
+    text-align: center;
+    transition: all .4s ease;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+
+.ctr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+
+.main{
+    border: 1px solid buttonface;
+    width: 600px;
+    background: #fff;
+    box-shadow: 10px 20px 40px #ccc;
+    border-radius: 30px;
+    margin-top: 2em;
+}
+
+.f-j-c{
+    display: flex;
+    justify-content: center;
+}
+
+.icon{
+    width: 160px;
+    padding-top: 2em;
+    
+}
+
+.txt-id > h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+.fffoorrmmm{
+    margin-bottom: 4em;
+}
+
+.account_name_text_field{
+    border: 1px solid #d2d2d7;
+    width: 450px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 50px;
+    font-size: 17px;
+    color: #00000098;
+    padding-left: 17px;
+}
+
+.account_name_password_field{
+    border: 1px solid #d2d2d7;
+    width: 450px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 50px;
+    font-size: 17px;
+    color: #00000098;
+    margin-top: 2px;
+    padding-left: 17px;
+}
+
+.account_name_text_field:focus, .account_name_password_field:focus
+{
+    outline: 4px solid rgb(52, 139, 225);
+}
+
+.arr_circ_rt{
+    position: absolute;
+    font-weight: bold;
+    color: #00000098;
+    left: 26.2cm;
+    padding-top: 15px;
+    /* left: 30px; */
+    font-size: 22px;
+    /* fill: #d2d2d7; */
+}
+
+.artttt{
+    color: #444;
+    display: flex;
+    align-items: center;
+    margin-top: 3.3em;
+}
+
+.fgt_pwd_{
+    color: #0071eb;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 28px;
+}
+
+.fgt_pwd_:hover{
+    text-decoration: underline;
+}
+
+.ppppp_id{
+    color: #0071eb;
+    cursor: default;
+    font-size: 14px;
+    text-align: center;
+}
+
+.footer_app{
+    width: 100vw;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: buttonface;
+    position: relative;
+    bottom: 0;
+    font-size: 12px;
+    color: #444;
+    overflow-x: hidden !important;
+    margin-top: 4cm;
+}
+
+
